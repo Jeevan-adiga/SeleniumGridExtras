@@ -26,7 +26,7 @@
     },
     "log_maximum_age_ms": 864000000,
     "reboot_after_sessions": "0",
-    "grid_extras_port": "3000",
+    "grid_extras_port": "3001",
     "webdriver": {
       "version": "3.141.59"
     },
